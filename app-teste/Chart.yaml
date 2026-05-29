@@ -1,0 +1,4 @@
+apiVersion: v2
+name: app-teste
+description: Nginx feito na mão
+version: 0.1.0

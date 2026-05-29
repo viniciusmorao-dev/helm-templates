@@ -1,0 +1,6 @@
+replicaCount: 1
+image: nginx:alpine
+
+service:
+  type: NodePort
+  port: 80
